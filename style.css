@@ -1,0 +1,17 @@
+body {
+  background-color: #f6f0f0;
+  font-family: poppins;
+}
+.gambar {
+  height: 300px;
+  weight: 300px;
+}
+.navbar {
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+.fe {
+  width: 120px;
+  height: 130px;
+}
